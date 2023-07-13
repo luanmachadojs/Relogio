@@ -11,7 +11,7 @@
 
 <h3>Para visualizar o projeto basta clicar no link abaixo:</h3>
 
-<a href="https://luanmachadoyt.github.io/Artigos">Clique aqui!</a>
+<a href="https://luanmachadojs.github.io/Relogio">Clique aqui!</a>
 
 #
 
